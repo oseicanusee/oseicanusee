@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oseicanusee
 - 👀 I’m interested in becoming a software developer
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on different minor projects as I'm relatively new to java. 
+- 💞️ I’m looking to collaborate on different projects. 
 - 📫 How to reach me jeffersonagyekum@gmail.com 
 
 <!---
